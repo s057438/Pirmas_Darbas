@@ -220,7 +220,7 @@ int main() {
                     cout << "Jus isejote is valiutu programos" << endl;
                 break;
                 default:
-                    cout << "Tokio pasirinkimo nera, banykite dar karta." << endl;
+                    cout << "Tokio pasirinkimo nera, bandykite dar karta." << endl;
             }
         }
 
